@@ -6,11 +6,10 @@ description: Get the Mattermost plugin installed as a first step
 
 ### Install via Plugin Marketplace \(Recommended\)
 
-1. Go to **Main Menu &gt; Plugin** Marketplace in Mattermost
+1. Go to **Main Menu &gt; Plugin Marketplace** in Mattermost
 2. Search for "Zoom" or manually find the plugin from the list and click **Install**
-3. After the plugin has downloaded and been installed, click the **Configure** button
-4. Generate a **Secret** for `Webhook Secret` and `Stats API Secret`
-5. Go to the top of the screen and set **Enable Plugin** to `True`and then click **Save** to enable the Zoom plugin.
+3. After the plugin has downloaded and been installed, follow the instructions on [Zoom Configuration](zoom-configuration/)
+4. After finishing the [Zoom Configuration](zoom-configuration/), follow the instructions on [Mattermost Setup](mattermost-setup.md)
 
 ### \(Alternative\) Install via Manual Upload
 

@@ -6,9 +6,5 @@ description: >-
 
 # Connect your Account
 
-Get started by going to Mattermost and typing into any chat window the following:
-
-`/zoom connect`
-
-And then follow the instructions to connect your Zoom account. 
+The first time you create a meeting, you may be required to connect your account. Follow the instructions to connect your Zoom account. 
 

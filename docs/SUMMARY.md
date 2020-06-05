@@ -5,10 +5,11 @@
 ## Installation
 
 * [Install Zoom Plugin](installation/install-zoom-plugin.md)
-* [Mattermost Setup](installation/mattermost-setup.md)
 * [Zoom Configuration](installation/zoom-configuration/README.md)
-  * [Zoom Setup \(Oauth\)](installation/zoom-configuration/zoom-setup-oauth.md)
+  * [Zoom Setup \(OAuth\)](installation/zoom-configuration/zoom-setup-oauth.md)
   * [Zoom Setup \(JWT\)](installation/zoom-configuration/zoom-setup-jwt.md)
+  * [Webhook Configuration](installation/zoom-configuration/webhook-configuration.md)
+* [Mattermost Setup](installation/mattermost-setup.md)
 
 ## Usage
 
